@@ -30,10 +30,10 @@ paginate = 5
 #
 [params]
   # Site author
-  author = "Your Name"
+  author = "Tech Team"
 
   # Description/subtitle for homepage (can be Markdown)
-  description = "A simple Hugo theme based on the Bootstrap v4 blog example."
+  description = "HackNYU's tech blog. Written by the tech team."
 
   # Show header (default: true)
   #header_visible = true
@@ -69,7 +69,7 @@ paginate = 5
 
   [params.sidebar]
     # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
+    about = "A blog about various HackNYU projects, including our [website](https://hacknyu.org)."
 
     # How many posts to show on the sidebar (Default: 5)
     #num_recent_posts = 2
