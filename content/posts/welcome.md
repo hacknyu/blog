@@ -2,6 +2,7 @@
 title: "Welcome"
 date: 2019-02-07T11:49:43-05:00
 draft: true
+author: "Nicholas Yang"
 ---
 
 Welcome to HackNYU's new tech blog! We've been working on various cool
@@ -25,3 +26,5 @@ written in Go. The theme is [Bootstrap v4
 Blog](https://themes.gohugo.io/hugo-theme-bootstrap4-blog/).
 
 We hope that you enjoy the blog!
+
+Nicholas
